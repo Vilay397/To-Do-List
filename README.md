@@ -4,7 +4,7 @@ A simple Todo Flask App for fixing tasks for a day or a week, built with Python,
 For styling semantic-ui is used.
 
 #### Example:   
-![Image description](https://github.com/Vilay397/Weather-app/blob/main/Intro_todo.PNG)
+![Image description](https://github.com/Vilay397/To-Do-List/blob/main/Intro_todo.PNG)
 
 ## Installation and Setup Instructions
 
