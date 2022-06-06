@@ -8,11 +8,11 @@ For styling semantic-ui is used.
 
 ## Installation and Setup Instructions
 
-Clone this repository. You will need python, virtualenv, and virtualenvwrapper-win installed on your machine.
+Clone this repository. You will need python, virtualenv installed on your machine.
 
 ### Set up a virtual environment:
 
-mkvirtualenv WeatherApp
+`python3 -m venv venv`
 
 #### Installation:
 
